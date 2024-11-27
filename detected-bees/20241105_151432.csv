@@ -1,0 +1,3 @@
+original_frame_id, video_frame_id, center_x, center_y, box_x1, box_y1, box_x2, box_y2, confidence
+9343,1,397,182,377,166,418,199,0.65
+9343,1,409,213,393,195,426,231,0.64
